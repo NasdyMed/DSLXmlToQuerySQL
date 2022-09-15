@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DSLxmlToQuerySql/1.0.0": {
+        "runtime": {
+          "DSLxmlToQuerySql.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DSLxmlToQuerySql/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

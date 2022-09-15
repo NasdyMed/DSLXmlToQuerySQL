@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b789b5e3-5031-48f4-a0aa-e8c451755587": {
+      "ProjectGuid": "b789b5e3-5031-48f4-a0aa-e8c451755587",
+      "DisplayName": "DSLxmlToQuerySql",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

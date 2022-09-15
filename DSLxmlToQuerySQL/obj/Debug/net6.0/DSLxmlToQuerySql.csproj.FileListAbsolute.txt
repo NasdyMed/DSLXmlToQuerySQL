@@ -1,0 +1,14 @@
+C:\Users\moham\OneDrive\Bureau\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DSLxmlToQuerySql.exe
+C:\Users\moham\OneDrive\Bureau\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DSLxmlToQuerySql.deps.json
+C:\Users\moham\OneDrive\Bureau\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DSLxmlToQuerySql.runtimeconfig.json
+C:\Users\moham\OneDrive\Bureau\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DSLxmlToQuerySql.dll
+C:\Users\moham\OneDrive\Bureau\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ref\DSLxmlToQuerySql.dll
+C:\Users\moham\OneDrive\Bureau\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DSLxmlToQuerySql.pdb
+C:\Users\moham\OneDrive\Bureau\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DSLxmlToQuerySql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Bureau\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DSLxmlToQuerySql.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Bureau\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DSLxmlToQuerySql.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Bureau\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DSLxmlToQuerySql.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Bureau\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DSLxmlToQuerySql.dll
+C:\Users\moham\OneDrive\Bureau\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\DSLxmlToQuerySql.dll
+C:\Users\moham\OneDrive\Bureau\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DSLxmlToQuerySql.pdb
+C:\Users\moham\OneDrive\Bureau\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\DSLxmlToQuerySql.genruntimeconfig.cache
